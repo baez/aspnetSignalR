@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using AspnetSignalR;
 using AspnetSignalR.Controllers;
+using AspnetSignalR.Interfaces;
+using AspnetSignalR.Repositories;
 
 namespace AspnetSignalR.Tests.Controllers
 {
